@@ -118,5 +118,3 @@ class ChatFunctions:
                 self.chat_history_widget.append(formatted_message)
 
             self.chat_history_widget.append("")
-
-
